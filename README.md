@@ -14,7 +14,6 @@ Puedes explorar el portafolio interactivo aquí: **[https://Nxhym.github.io](htt
 
 ## 🛠️ Stack Tecnológico
 
-*(Nota: Edita esta lista según las herramientas exactas que usaste para crear tu página)*
 * **Estructura y Diseño:** HTML5, CSS3.
 * **Interactividad:** JavaScript.
 * **Despliegue:** GitHub Pages.
