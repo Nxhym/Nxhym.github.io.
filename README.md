@@ -4,7 +4,7 @@ Este repositorio contiene el código fuente de mi sitio web personal y portafoli
 
 ## 🔗 Vista en Vivo
 
-Puedes explorar el portafolio interactivo aquí: **[https://Nxhym.github.io](https://Nxhym.github.io)**
+Puedes explorar el portafolio interactivo aquí: **[https://nxhym.github.io/Nxhym.github.io./)**
 
 ## 🚀 Características del Sitio
 
